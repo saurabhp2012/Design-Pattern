@@ -1,0 +1,14 @@
+.DS_Store
+
+# Executables
+*.exe
+*.out
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+##### VisualStudioCode
+.vscode/
