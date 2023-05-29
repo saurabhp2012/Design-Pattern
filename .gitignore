@@ -3,7 +3,8 @@
 # Executables
 *.exe
 *.out
-
+*main
+*a
 # Compiled Object files
 *.slo
 *.lo
@@ -11,4 +12,8 @@
 *.obj
 
 ##### VisualStudioCode
-.vscode/
+*.vscode/
+
+
+#debug
+*.dSYM
